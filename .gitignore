@@ -22,3 +22,5 @@ Thumbs.db
 .env
 __pycache__/
 *.pyc
+.venv/
+.chrome_gateway_profile/
